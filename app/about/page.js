@@ -9,7 +9,7 @@ const AboutPage = () => {
       software as the name may implie is very fun but also very technical.    </p>
        <p className='px-4 py-2'>I am the fisrt child of my parents and the first son of my family. i am 20 years old and still have a long way to go in order for me to become a professional software developer and i am ready for the challenges and tasks up ahead.
          </p>
-         <p className='px-4 py-2'>I love the course i chose and it's one of the best currently. i am proud to call my self a software developer</p>
+         <p className='px-4 py-2'>I love the course/ i chose and it's one of the best currently. i am proud to call my self a software developer</p>
     </div>
    
   )
