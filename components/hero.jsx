@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='px-4 py-8 md:flex md:items-center gap-8 border justify-center' >
         <div className='flex justify-center'>
-         <Image  alt='me' width={150} height={200} src='/img.jpg' className='rounded border-r-200' />
+         <Image  alt='me' width={150} height={300} src='/img.jpg' className='rounded border-r-200' />
         </div>
         <div>
           <div className='text-center'>
